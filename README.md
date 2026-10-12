@@ -62,4 +62,4 @@ npm run dev               # http://localhost:5173
 ## Author
 
 **Manicharan Ravi** · Software Engineer, Cloud & Full Stack · Mainz, Germany
-[LinkedIn](https://linkedin.com/in/manicharan-ravi) · [GitHub](https://github.com/manicharan0485)
+[Portfolio](https://manicharan0485.github.io) · [LinkedIn](https://linkedin.com/in/manicharan-ravi) · [GitHub](https://github.com/manicharan0485)
